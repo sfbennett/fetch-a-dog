@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #aacdbe;
+}
+
+body {
+  line-height: 1.5;
+  max-width: 500px;
+  min-height: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+  border-radius: 5px;
+  background: #f4f7c5;
+}
+
+h1 {
+  font-family: "Jersey 20", sans-serif;
+}
+
+.header-and-button,
+.dog-image-container {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin-left: 100px;
+  padding: 10px;
+  width: 70px;
+  background: #fbc687;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 17px;
+  font-family: "Jersey 20", sans-serif;
+}
+
+button:hover {
+  background: #ea907a;
+}
+
+button:active {
+  background: #aacdbe;
+}
+
+.dog-image {
+  width: 200px;
+  margin-top: 25px;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
