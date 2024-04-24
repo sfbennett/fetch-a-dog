@@ -18,3 +18,6 @@ For more information and documentation please check out: [Dog API Documentation]
 
 https://sfbennett.github.io/fetch-a-dog/ 
 
+<img width="566" alt="image" src="https://github.com/sfbennett/fetch-a-dog/assets/156936136/21abcbb6-8384-4f39-9a7f-00f48c1c542b">
+
+
