@@ -10,7 +10,9 @@ Don't stop retrieving with Fetch. Everytime you hit the 'fetch' button a new ima
 
 ## API Information
 
-The Dog API is a free web service that provides random photos of dogs. For more information and documentation please check out: [Dog API Documentation](https://thedogapi.com/) 
+The Dog API is a free web service that provides random photos of dogs. 
+
+For more information and documentation please check out: [Dog API Documentation](https://thedogapi.com/) 
 
 ## Live Website 
 
